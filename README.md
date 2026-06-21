@@ -36,8 +36,10 @@
 
 ---
 
-<!-- CODE BLOCK ABOUT ME -->
-<img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- CODE BLOCK ABOUT ME — TABLE LAYOUT FOR PERFECT ALIGNMENT -->
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class Powsikan:
@@ -71,7 +73,12 @@ me = Powsikan()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:10px"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -250,7 +257,7 @@ print(me.motto())
 |:--:|:-----------:|:--------|
 | 📜 | **NVQ Level 4 – Computer Hardware Technician** | Certified by TVEC / VTA · 2023 ✅ |
 | 🎓 | **NVQ Level 5 – ICT (Pursuing)** | German Tech Sri Lanka · Software Dev · Networking · Graphic Design · 2025–Present 🔄 |
-| 🔧 | **3+ Years Industry Experience** | JP Technologies · Paranthan · Hardware + Sales · 2023–Present |
+| 🔧 | **2+ Years Industry Experience** | JP Technologies · Paranthan · Hardware + Sales · 2023–Present |
 | 🤖 | **Built AI-Powered App** | PC Builder Pro with ARIA chatbot (OpenAI API integration) |
 | 🌐 | **Full-Stack Developer** | Custom MVC · Dynamic compatibility engine · 9 rule types |
 | 🔐 | **Software Security** | HWID locking · License key generation · CSRF protection |
