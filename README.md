@@ -1,15 +1,30 @@
-<!-- HERO BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     HERO BANNER                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chandirakumar%20Powsikan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Hardware%20Technician%20%7C%20Tech%20Enthusiast%20%7C%20Builder&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chandirakumar%20Powsikan&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Computer%20Hardware%20Technician%20%7C%20Tech%20Enthusiast%20%7C%20Builder%20⚡&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
-<!-- ANIMATED BADGES ROW -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   BADGES ROW                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Powsi06&label=👁️%20Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Powsi06&label=👁️%20Profile%20Views&color=70a5fd&style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Powsi06?label=Followers&style=flat-square&color=bf91f3&logo=github" />
+  <img src="https://img.shields.io/github/followers/Powsi06?label=👥%20Followers&style=flat-square&color=bf91f3&logo=github"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡%20Status-Open%20to%20Work-brightgreen?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🇱🇰-Sri%20Lanka-blue?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💼-2%2B%20Years%20Experience-orange?style=flat-square"/>
+</p>
 
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
+<!-- HIRE ME BUTTON -->
+<p align="center">
+  <a href="mailto:chandirakumar.powsikan@gmail.com">
+    <img src="https://img.shields.io/badge/🚀%20HIRE%20ME-%20Let's%20Work%20Together!-70a5fd?style=for-the-badge&labelColor=0d1117"/>
+  </a>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -21,17 +36,19 @@
   <a href="https://github.com/Powsi06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
 </p>
 
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert;CCTV+%7C+Networking+%7C+Biometric+Systems;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"/>
 </p>
 
 ---
 
-<!-- CODE BLOCK ABOUT ME — TABLE LAYOUT FOR PERFECT ALIGNMENT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ABOUT ME                                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -41,10 +58,9 @@ class Powsikan:
     def __init__(self):
         self.name        = "Chandirakumar Powsikan"
         self.alias       = "Powsi 💻"
-        self.location    = "Paranthan, Sri Lanka 🇱🇰"
         self.role        = "Hardware Technician & Sales Assistant"
         self.company     = "JP Technologies (2023 – Present)"
-        self.experience  = "2+ Years in IT Hardware"
+        self.experience  = "3+ Years in IT Hardware"
         self.skills      = [
             "PC Assembly & Repair 🔧",
             "Hardware Diagnostics 🩺",
@@ -60,6 +76,7 @@ class Powsikan:
         ]
         self.languages   = ["Tamil 🗣️ Fluent", "English 📖 Basic"]
         self.fun_fact    = "I diagnose dead PCs faster than you Google! 😄"
+        self.available   = True  # Open to work!
 
     def motto(self):
         return "Fix it. Build it. Improve it. 🔧"
@@ -70,12 +87,18 @@ print(me.motto())
 
 </td>
 <td valign="top" width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:10px"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Available%20For-Freelance%20Work-38bdae?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </td>
 </tr>
 </table>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   TECH & TOOLS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech & Tools
 
@@ -89,6 +112,7 @@ print(me.motto())
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **🔧 Hardware & Networking**
 
@@ -107,50 +131,62 @@ print(me.motto())
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![POS Systems](https://img.shields.io/badge/POS%20Systems-43A047?style=flat-square&logo=square&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![POS](https://img.shields.io/badge/POS%20Systems-43A047?style=flat-square&logo=square&logoColor=white)
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  SKILL PROFICIENCY                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 Skill Proficiency
 
 <div align="center">
 
-| Skill | Proficiency |
-|:------|:-----------|
-| 🔧 PC Assembly & Repair | ████████████████████ 95% |
-| 🩺 Hardware Diagnostics | ███████████████████░ 90% |
-| 📡 Networking (LAN/IP) | ████████████████░░░░ 80% |
-| 📷 CCTV Installation | ████████████████████ 95% |
-| 🔐 Biometric Systems | ███████████████░░░░░ 75% |
-| 💻 Software Installation | ████████████████████ 95% |
-| 🌐 PHP / Web Dev | ████████████░░░░░░░░ 60% |
-| 🎨 Graphic Design | ████████░░░░░░░░░░░░ 40% |
+| Skill | Proficiency | Level |
+|:------|:-----------|:-----:|
+| 🔧 PC Assembly & Repair | ████████████████████ | 95% |
+| 🩺 Hardware Diagnostics | ███████████████████░ | 90% |
+| 📷 CCTV Installation | ████████████████████ | 95% |
+| 💻 Software Installation | ████████████████████ | 95% |
+| 📡 Networking (LAN/IP) | ████████████████░░░░ | 80% |
+| 🔐 Biometric Systems | ███████████████░░░░░ | 75% |
+| 🌐 PHP / Web Dev | ████████████░░░░░░░░ | 60% |
+| 🎨 Graphic Design | ████████░░░░░░░░░░░░ | 40% |
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  SERVICES                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛎️ Services I Offer
 
 <div align="center">
 
 | 🔧 Service | 📋 Details |
-|:----------:|:----------:|
+|:----------:|:----------|
 | 💻 **PC & Laptop Repair** | Diagnosing & fixing hardware faults — RAM, HDD, Motherboard, GPU |
-| 🖥️ **PC Building** | Custom PC assembly with compatibility checking & cable management |
+| 🖥️ **Custom PC Building** | Assembly with compatibility checking & professional cable management |
 | 📡 **Network Setup** | LAN, IP configuration, Router setup, Wi-Fi troubleshooting |
-| 📷 **CCTV Installation** | Full CCTV system setup, configuration & maintenance |
+| 📷 **CCTV Installation** | Full CCTV system setup, configuration & ongoing maintenance |
 | 🔐 **Biometric Systems** | Fingerprint scanner & attendance system installation |
-| 🖨️ **Printer Setup** | Installation, driver config & troubleshooting |
+| 🖨️ **Printer Setup** | Installation, driver configuration & troubleshooting |
 | 🖥️ **Remote Support** | TeamViewer / AnyDesk remote diagnosis & repair |
 | 💿 **OS Installation** | Windows, drivers & essential software setup |
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
@@ -166,21 +202,49 @@ print(me.motto())
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  STREAK STATS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Powsi06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Powsi06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
 
-## 📈 Activity Graph
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               3D CONTRIBUTION CALENDAR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🗓️ 3D Contribution Calendar
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Powsi06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api/simple/Powsi06" width="95%" alt="3D Contribution Graph"/>
+</div>
+
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION HEATMAP                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌡️ Contribution Heatmap
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/70a5fd/Powsi06" alt="Contribution Heatmap" width="95%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  SNAKE ANIMATION                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
@@ -192,9 +256,11 @@ print(me.motto())
   </picture>
 </div>
 
-> ⚠️ **Snake setup:** Settings → Actions → General → Allow all actions → then add `.github/workflows/snake.yml` (see below)
-
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  TROPHY WALL                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 Trophy Wall
 
@@ -204,10 +270,14 @@ print(me.motto())
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  WORK EXPERIENCE                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 💼 Work Experience
 
 <details>
-<summary>🏢 <strong>JP Technologies – Sri Lanka</strong> &nbsp;|&nbsp; Computer Hardware Technician & Sales Assistant &nbsp;|&nbsp; 📅 2023 – Present &nbsp;|&nbsp; 📍 Paranthan, Sri Lanka</summary>
+<summary>🏢 <strong>JP Technologies – Sri Lanka</strong> &nbsp;|&nbsp; Computer Hardware Technician & Sales Assistant &nbsp;|&nbsp; 📅 2023 – Present</summary>
 
 <br/>
 
@@ -230,6 +300,10 @@ print(me.motto())
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -244,6 +318,10 @@ print(me.motto())
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               ACHIEVEMENTS & CERTIFICATIONS                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🎯 Achievements & Certifications
 
 <div align="center">
@@ -251,15 +329,19 @@ print(me.motto())
 | 🏅 | Achievement | Details |
 |:--:|:-----------:|:--------|
 | 📜 | **NVQ Level 4 – Computer Hardware Technician** | Certified by TVEC / VTA · 2023 ✅ |
-| 🎓 | **NVQ Level 5 – ICT (Pursuing)** | German Tech Sri Lanka · Software Dev · Networking · Graphic Design · 2025–Present 🔄 |
-| 🔧 | **2+ Years Industry Experience** | JP Technologies · Paranthan · Hardware + Sales · 2023–Present |
-| 🤖 | **Built AI-Powered App** | PC Builder Pro with ARIA chatbot (OpenAI API integration) |
+| 🎓 | **NVQ Level 5 – ICT (Pursuing)** | German Tech Sri Lanka · 2025–Present 🔄 |
+| 🔧 | **2+ Years Industry Experience** | JP Technologies · Hardware + Sales · 2023–Present |
+| 🤖 | **Built AI-Powered App** | PC Builder Pro with ARIA chatbot (OpenAI API) |
 | 🌐 | **Full-Stack Developer** | Custom MVC · Dynamic compatibility engine · 9 rule types |
 | 🔐 | **Software Security** | HWID locking · License key generation · CSRF protection |
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     EDUCATION                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
@@ -275,6 +357,10 @@ print(me.motto())
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CURRENTLY LEARNING                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 📚 Currently Learning
 
 ```
@@ -282,19 +368,39 @@ print(me.motto())
 🌐  Networking            →  LAN · IP Config · Router Setup · Subnetting
 🎨  Graphic Designing     →  UI/UX · Figma · Visual Branding
 🔐  System Security       →  HWID Lock · License Keys · CSRF Protection
-🤖  AI Integration        →  OpenAI API · Chatbot Dev (ARIA)
+🤖  AI Integration        →  OpenAI API · Chatbot Development (ARIA)
 📱  Web Development       →  Tailwind CSS · Responsive Design · REST APIs
 ```
 
 ---
 
-## 💬 Random Dev Quote
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                RANDOM TECH FACT                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚡ Random Tech Fact
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=5000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!" alt="Tech Facts"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  DEV QUOTE                                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💬 Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  DEV JOKE                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 😄 Random Dev Joke
 
@@ -304,6 +410,10 @@ print(me.motto())
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CONNECT                                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -312,14 +422,23 @@ print(me.motto())
 
 [![GitHub](https://img.shields.io/badge/GitHub-Powsi06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Powsi06)
 
+<br/>
 
+<!-- HIRE ME ANIMATED BUTTON -->
+<a href="mailto:chandirakumar.powsikan@gmail.com">
+  <img src="https://img.shields.io/badge/💼%20Available%20For%20Hire-Click%20to%20Contact%20Me!-70a5fd?style=for-the-badge&labelColor=0d1117"/>
+</a>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  FOOTER                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=38BDAE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=38BDAE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7" alt="Footer Typing"/>
 </div>
 
 <p align="center">
@@ -328,7 +447,6 @@ print(me.motto())
   <sub>— Chandirakumar Powsikan</sub>
 </p>
 
-<!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
