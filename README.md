@@ -8,9 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Powsi06&label=👁️%20Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/Powsi06?label=Followers&style=flat-square&color=bf91f3&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🇱🇰%20Sri%20Lanka-Paranthan-38bdae?style=flat-square" />
-  &nbsp;
+
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
 </p>
 
@@ -23,10 +21,7 @@
   <a href="https://github.com/Powsi06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://wa.me/94761653899">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+
 </p>
 
 <!-- TYPING HEADER -->
@@ -315,11 +310,9 @@ print(me.motto())
 
 [![Gmail](https://img.shields.io/badge/Gmail-chandirakumar.powsikan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandirakumar.powsikan@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B94%20761%20653%20899-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94761653899)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Powsi06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Powsi06)
 
-![Location](https://img.shields.io/badge/📍%20Location-Paranthan%2C%20Sri%20Lanka-0e75b6?style=for-the-badge)
+
 
 </div>
 
