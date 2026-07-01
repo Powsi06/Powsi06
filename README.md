@@ -47,13 +47,9 @@
   </a>
 </p>
 
-<!-- TYPING HEADER — theme-safe: deep tones for light mode, bright tones for dark mode -->
+<!-- TYPING HEADER — bg_color=0D1117 ensures visibility on ALL themes & GitHub mobile app -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B"/>
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B"/>
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&bg_color=0D1117&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"/>
 </p>
 
 ---
@@ -388,11 +384,7 @@ print(me.motto())
 ## ⚡ Random Tech Fact
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!"/>
-    <img alt="Tech Facts" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!"/>
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1000&color=38BDAE&bg_color=0D1117&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!" alt="Tech Facts"/>
 </div>
 
 ---
@@ -427,11 +419,7 @@ print(me.motto())
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=500&color=38BDAE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=500&color=0F766E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7"/>
-    <img alt="Footer Typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=500&color=38BDAE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7"/>
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=500&color=38BDAE&bg_color=0D1117&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7" alt="Footer Typing"/>
 </div>
 
 <p align="center">
@@ -443,3 +431,4 @@ print(me.motto())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer banner"/>
 </p>
+
