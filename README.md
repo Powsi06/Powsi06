@@ -7,7 +7,7 @@
 <!--                     HERO BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chandirakumar%20Powsikan&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Computer%20Hardware%20Technician%20%7C%20Tech%20Enthusiast%20%7C%20Builder%20⚡&descAlignY=62&descSize=16" width="100%" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chandirakumar%20Powsikan&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=⚡%20Computer%20Hardware%20Technician%20%7C%20Tech%20Enthusiast%20%7C%20Builder%20⚡&descAlignY=67&descSize=16" width="100%" alt="header banner"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -429,6 +429,5 @@ print(me.motto())
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" alt="footer banner"/>
 </p>
-
