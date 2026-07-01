@@ -1,8 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  Chandirakumar Powsikan — GitHub Profile README                -->
+<!--  Setup: commit this file AND the /assets folder (4 SVGs) to    -->
+<!--  the root of the Powsi06/Powsi06 repository so the relative    -->
+<!--  asset paths below resolve correctly on both themes.           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     HERO BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chandirakumar%20Powsikan&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Computer%20Hardware%20Technician%20%7C%20Tech%20Enthusiast%20%7C%20Builder%20⚡&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chandirakumar%20Powsikan&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Computer%20Hardware%20Technician%20%7C%20Tech%20Enthusiast%20%7C%20Builder%20⚡&descAlignY=62&descSize=16" width="100%" alt="header banner"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -17,7 +22,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/🇱🇰-Sri%20Lanka-blue?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/💼-2%2B%20Years%20Experience-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💼-3%2B%20Years%20Experience-orange?style=flat-square"/>
 </p>
 
 <!-- HIRE ME BUTTON -->
@@ -36,11 +41,19 @@
   <a href="https://github.com/Powsi06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/cpowsikan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<!-- TYPING HEADER -->
+<!-- TYPING HEADER — theme-safe: deep tones for light mode, bright tones for dark mode -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B"/>
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Computer+Hardware+Technician+%F0%9F%94%A7;PC+Builder+%7C+Troubleshooter+%7C+Repair+Expert+%F0%9F%96%A5%EF%B8%8F;CCTV+%7C+Networking+%7C+Biometric+Systems+%F0%9F%93%A1;NVQ+Level+4+Certified+%7C+Pursuing+NVQ+Level+5+%F0%9F%8E%93;Open+to+Freelance+%26+Full-Time+Work+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B"/>
+  </picture>
 </p>
 
 ---
@@ -87,8 +100,12 @@ print(me.motto())
 
 </td>
 <td valign="top" width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/circuit-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/circuit-light.svg"/>
+    <img src="assets/circuit-dark.svg" width="100%" alt="Circuit board illustration"/>
+  </picture>
+  <br/>
   <img src="https://img.shields.io/badge/Available%20For-Freelance%20Work-38bdae?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </td>
 </tr>
@@ -145,18 +162,11 @@ print(me.motto())
 ## 📊 Skill Proficiency
 
 <div align="center">
-
-| Skill | Proficiency | Level |
-|:------|:-----------|:-----:|
-| 🔧 PC Assembly & Repair | ████████████████████ | 95% |
-| 🩺 Hardware Diagnostics | ███████████████████░ | 90% |
-| 📷 CCTV Installation | ████████████████████ | 95% |
-| 💻 Software Installation | ████████████████████ | 95% |
-| 📡 Networking (LAN/IP) | ████████████████░░░░ | 80% |
-| 🔐 Biometric Systems | ███████████████░░░░░ | 75% |
-| 🌐 PHP / Web Dev | ████████████░░░░░░░░ | 60% |
-| 🎨 Graphic Design | ████████░░░░░░░░░░░░ | 40% |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skill-bars-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/skill-bars-light.svg"/>
+    <img src="assets/skill-bars-dark.svg" width="100%" alt="Skill proficiency chart"/>
+  </picture>
 </div>
 
 ---
@@ -215,17 +225,13 @@ print(me.motto())
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               3D CONTRIBUTION CALENDAR                         -->
+<!--               CONTRIBUTION ACTIVITY                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🗓️ 3D Contribution Calendar
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Powsi06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api/simple/Powsi06" width="95%" alt="3D Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Powsi06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="contribution activity graph"/>
 </div>
 
 ---
@@ -265,7 +271,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Powsi06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Powsi06&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub trophies"/>
 </div>
 
 ---
@@ -306,13 +312,14 @@ print(me.motto())
 
 ## 🚀 Featured Projects
 
+<!-- TODO: point each project at its actual repo URL once published, e.g. https://github.com/Powsi06/pc-builder-pro -->
 <div align="center">
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------|
 | 🖥️ **[PC Builder Pro](https://github.com/Powsi06)** | PHP 8 · MySQL · MVC · OpenAI API | Sri Lanka market PC compatibility builder · 9 rule-type engine · AI chatbot ARIA · LKR pricing · CSRF security |
-| 📸 **Photography Studio Manager** | PHP · Tailwind · MySQL | Studio billing system · HWID machine lock · License key generation · Key-based password reset |
-| 🌐 **Personal Portfolio** | HTML · CSS · JS · Canvas | Dark cyber aesthetic · Particle canvas · Scroll animations · Mobile-first · Reduced-motion support |
+| 📸 **[Photography Studio Manager](https://github.com/Powsi06)** | PHP · Tailwind · MySQL | Studio billing system · HWID machine lock · License key generation · Key-based password reset |
+| 🌐 **[Personal Portfolio](https://github.com/Powsi06)** | HTML · CSS · JS · Canvas | Dark cyber aesthetic · Particle canvas · Scroll animations · Mobile-first · Reduced-motion support |
 
 </div>
 
@@ -330,7 +337,7 @@ print(me.motto())
 |:--:|:-----------:|:--------|
 | 📜 | **NVQ Level 4 – Computer Hardware Technician** | Certified by TVEC / VTA · 2023 ✅ |
 | 🎓 | **NVQ Level 5 – ICT (Pursuing)** | German Tech Sri Lanka · 2025–Present 🔄 |
-| 🔧 | **2+ Years Industry Experience** | JP Technologies · Hardware + Sales · 2023–Present |
+| 🔧 | **3+ Years Industry Experience** | JP Technologies · Hardware + Sales · 2023–Present |
 | 🤖 | **Built AI-Powered App** | PC Builder Pro with ARIA chatbot (OpenAI API) |
 | 🌐 | **Full-Stack Developer** | Custom MVC · Dynamic compatibility engine · 9 rule types |
 | 🔐 | **Software Security** | HWID locking · License key generation · CSRF protection |
@@ -381,31 +388,11 @@ print(me.motto())
 ## ⚡ Random Tech Fact
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=5000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!" alt="Tech Facts"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  DEV QUOTE                                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  DEV JOKE                                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 😄 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!"/>
+    <img alt="Tech Facts" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+The+first+computer+bug+was+an+actual+bug+—+a+moth+found+in+a+relay+in+1947!;💡+The+word+'byte'+was+coined+to+avoid+confusion+with+the+word+'bit';💡+The+first+1GB+hard+drive+weighed+250kg+and+cost+%2440%2C000+in+1980!"/>
+  </picture>
 </div>
 
 ---
@@ -421,6 +408,8 @@ print(me.motto())
 [![Gmail](https://img.shields.io/badge/Gmail-chandirakumar.powsikan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandirakumar.powsikan@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Powsi06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Powsi06)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cpowsikan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpowsikan)
 
 <br/>
 
@@ -438,7 +427,11 @@ print(me.motto())
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=38BDAE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7" alt="Footer Typing"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=500&color=38BDAE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=500&color=0F766E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7"/>
+    <img alt="Footer Typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=500&color=38BDAE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+%F0%9F%A4%9D;Let%27s+build+something+great+together+%F0%9F%9A%80;Fix+it.+Build+it.+Improve+it.+%F0%9F%94%A7"/>
+  </picture>
 </div>
 
 <p align="center">
@@ -448,5 +441,5 @@ print(me.motto())
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer banner"/>
 </p>
