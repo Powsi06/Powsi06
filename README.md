@@ -245,6 +245,18 @@ print(me.motto())
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  JET HEATMAP ANIMATION                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Contribution Jet
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Powsi06/Powsi06/main/dist/github-jet.svg" width="100%" alt="Jet Heatmap Animation"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  SNAKE ANIMATION                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
